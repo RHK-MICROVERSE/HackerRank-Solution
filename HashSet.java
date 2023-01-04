@@ -1,4 +1,4 @@
-/*  HackerRank: HELLO WORLD
+/*  HackerRank: HASHSET
     JAVA 15
     Problem no: 35
  */
